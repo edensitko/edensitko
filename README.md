@@ -44,9 +44,8 @@
   <h2>👨🏻‍💻 About Me</h2><br>
   🚀 DevOps & Cloud Engineer — building production-ready infrastructure<br>
   🔧 Terraform · AWS · Docker · GitHub Actions · Prometheus<br>
-  🤖 AI integration in real products — ChakoAI deployed in production<br>
   📦 Creator of <a href="https://github.com/edensitko/terraform-starter-pkg">tf-starter</a> — npm CLI for instant Terraform scaffolding<br>
-  📚 Currently diving deep into <strong>Kubernetes</strong><br>
+  📚 Currently diving deep into <strong>Kubernetes and AI</strong><br>
   💡 Hobbies: coding </> , vibe coding 👨🏻‍💻 , time with family 👨‍👩‍👧‍👦 and football ⚽<br>
   📍 Israel | Open to remote opportunities
 </div>
